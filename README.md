@@ -23,5 +23,7 @@
 [twitter]: https://twitter.com/dbharkey
 [linkedin]: https://linkedin.com/in/david-harkey
 
+<!--
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
+-->
