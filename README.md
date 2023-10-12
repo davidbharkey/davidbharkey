@@ -8,6 +8,8 @@
   - [Example app showing how to utilize MapKit to obtain simple driving directions.](https://github.com/davidbharkey/DrivingDirections)
 - <b>Visual Equilizer</b>
   - [A simple, lightweight equalizer component for SwiftUI](https://github.com/davidbharkey/VisualEquilizer)
+- <b>PZImage</b>
+  - [A view that displays an image or series of images with a canvas pan-and-zoom effect.](https://github.com/davidbharkey/PZImage)
 
 <h2>📺 Where I'm Learning</h2>
 
